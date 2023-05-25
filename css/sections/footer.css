@@ -1,0 +1,26 @@
+.footer{
+    width: 100%;
+    padding: 20px 40px;
+    background-color: var(--color-white);
+    overflow: hidden;
+}
+
+.footer__logo{
+    font-size: 24px;
+    font-weight: bold;
+    font-family: var(--platfair-display);
+    text-transform: uppercase;
+    color: var(--secondary-color);
+    cursor: pointer;
+}
+
+.footer p{
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--secondary-color);
+    font-family: var(--plus-jakarta-sans);
+    text-transform: uppercase;
+    color: var(--secondary-color);
+    cursor: pointer;
+    
+}
